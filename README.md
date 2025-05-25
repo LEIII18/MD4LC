@@ -72,4 +72,4 @@ This code is to evaluate the image quality of remote sensing data by calling MAT
 ## 📧 Contact us
 Jianzhong Liu: liujianzhong@mail.gyig.ac.cn
 
-Danhong Lie: leidanhong@mail.gyig.ac.cn
+Danhong Lei: leidanhong@mail.gyig.ac.cn
