@@ -18,7 +18,7 @@ The MD4LC primarily consists of two components: a multi-source remote sensing da
 The label set is a multi-dimensional knowledge label system formed by team's expert annotators based on the aforementioned Chain of Thought. Specifically, it comprises age classification labels used to assess the relative ages of craters, subtype classification labels representing the morphological features, and bilingual text labels (Chinese and English) that describe the geological characteristics of impact craters.
 
 ## Dataset Download
-You can download the whole dataset from: https://ondrive/XXXXXXX
+As this study is currently under review, the download link for the full dataset will be updated upon paper acceptance.
 
 ## Usage Notes
 In order to help users better understand and utilize MDL4L, the detailed construction process and architectural design are outlined below:
