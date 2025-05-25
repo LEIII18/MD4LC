@@ -3,7 +3,7 @@
   <strong>MD4LC</strong>
 
 <p align="center">
-  <sub><em>A Multi-Task Multimodal Remote Sensing Image and Label Dataset for Lunar Craters</em></sub>
+  <sub><em>Multimodal Remote Sensing Image and Label Dataset for Lunar Craters</em></sub>
 </p>
 
 </h1>
