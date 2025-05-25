@@ -110,7 +110,7 @@ def main():
         try:
             center = extract_coordinate(filenames[i])
             diameter_m = diameters_km[i] * 1000
-            buffer_length = diameter_m * 2
+            buffer_length = diameter_m * 1.5
 
             crater_folder = os.path.join(output_base, str(i+1), 'shp')
             os.makedirs(crater_folder, exist_ok=True)
