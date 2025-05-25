@@ -42,7 +42,7 @@ This code is to Create Azimuthal Equidistant projection shapefiles for lunar imp
   <thead>
     <tr>
       <th align="center">filename</th>
-      <th align="center">dia</th>
+      <th align="center">diameter (km)</th>
     </tr>
   </thead>
   <tbody>
