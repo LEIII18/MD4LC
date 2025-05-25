@@ -7,9 +7,6 @@ This script reads crater center coordinates and diameters from a CSV file,
 then generates vector shapefiles with Azimuthal Equidistant projections
 centered on each crater.
 
-Author: [Your Name]
-License: MIT
-Date: 2024-01-27
 """
 
 import os
