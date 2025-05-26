@@ -33,7 +33,7 @@ Each label file is linked to the corresponding remote sensing data through a uni
 
 ### Data Preprocessing Notes
 - All image data have been standardized to the Moon 2000 geographical coordinate system and projected using the Azimuthal Equidistant projection, with each crater's center defined as the projection origin.
-- •	For multi-source data fusion, it is recommended to perform resampling based on differences in spatial resolution.
+- For multi-source data fusion, it is recommended to perform resampling based on differences in spatial resolution.
 
 ### Relative Codes
 #### 1. generate_crater_shp_Azimuthal_Equidistant
