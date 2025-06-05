@@ -3,7 +3,7 @@
   <strong>MD4LC</strong>
 
 <p align="center">
-  <sub><em>Multimodal Remote Sensing Image and Label Dataset for Lunar Craters</em></sub>
+  <sub><em>Multimodal Remote Sensing Image and Labeled Dataset for Lunar Craters</em></sub>
 </p>
 
 </h1>
@@ -15,7 +15,9 @@
 ## Dataset Introduction
 The MD4LC primarily consists of two components: a multi-source remote sensing dataset of lunar impact craters and a corresponding label set. The remote sensing dataset mainly contains raster data with spatial coordinate information, which is primarily used to represent the topography, morphology, gravitational anomalies, and material composition of lunar impact craters.
 
-The label set is a multi-dimensional knowledge label system formed by team's expert annotators based on the aforementioned Chain of Thought. Specifically, it comprises age classification labels used to assess the relative ages of craters, subtype classification labels representing the morphological features, and bilingual text labels (Chinese and English) that describe the geological characteristics of impact craters.
+The label set is a multi-dimensional knowledge label system formed by team's expert annotators based on the Chain of Thought. Specifically, it comprises age classification labels used to assess the relative ages of craters, subtype classification labels representing the morphological features, and bilingual text labels (Chinese and English) that describe the geological characteristics of impact craters.
+
+Additionally, MD4LC includes a global Helium-3 content distribution map. It is also one of the important base map data that constitute the MD4LC remote sensing dataset of our team. We are sharing this data here for collaborative use.
 
 ## Dataset Download
 As this study is currently under review, the download link for the full dataset will be updated upon paper acceptance.
