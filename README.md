@@ -19,6 +19,12 @@ The label set is a multi-dimensional knowledge label system formed by team's exp
 
 Additionally, MD4LC includes a global Helium-3 content distribution map produced by our team. It is also one of the important base map data that constitute the MD4LC remote sensing dataset. We are sharing this data here for collaborative use.
 
+<p align="center">
+  <img src="https://github.com/LEIII18/MD4LC/blob/main/The%20specific%20structure%20of%20the%20MD4LC.png" width="600">
+  <br>
+  <em>The specific structure of MD4LC</em>
+</p>
+
 ## Dataset Download
 As this study is currently under review, the download link for the full dataset will be updated upon paper acceptance.
 
